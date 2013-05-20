@@ -1,0 +1,37 @@
+1 - Sem
+	NAC1 (Teórica - 10 pontos): 19.03
+	NAC2 (Teorica - 10 pontos): 23.04
+	NAC3 (Teórica - 10 pontos): 21.05
+
+2 - Sem
+	NAC1(Prática - 10 pontos): 03.09
+	NAC2(Prática - 10 pontos): 15.10
+
+#Lógica de calculo de notas
+NAC AM PS
+Nac - discarta a menor nota, tira média....Depois (NAC*0,2 + AM*0,3 + PS*0,5)
+Média é >=6.
+
+NAC AM PS
+
+
+Computador ==> 
+		Máquina de processamento
+				|_> Tranformação / Manipulação
+
+
+Lógica ---> Passos ordenados com um objetivo final
+
+Lógica de programação
+
+Algoritmos ==> sequencia lógica e finita de passos ordenados com objetivo final.
+
+Um algoritmo não necessariamente é um programa, porém, todo programa contem um algoritmo em linguagem de máquina.
+
+Todos estão na margem A;
+Atravessa a cabra e a deixa na outra margem (margem B);
+volta sozinho (para a margem A);
+Pega o lobo e atravessa o lobo (para a margem B),
+Atravessa a cabra (para a margem A);
+atravessa a alfafa e volta sozinho (para a Margem B e volta para a Margem A)
+atravessa a cabra (para a margem B).

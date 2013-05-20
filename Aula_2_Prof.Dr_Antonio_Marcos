@@ -1,0 +1,14 @@
+Tecnicas de Programação
+
+A B C
+1 2 3
+Os três estão ordenados na torre A
+
+1 - Tira o disco 1 da torre A para a torre C
+2 - Tira o disco 2 da torre A para a torre B
+3 - Tira o dico 1 da torre C para a Torre B
+4 - Tira o disco 3 da Torre A para a torre C
+5 - Tira o disco 1 da torre B para a Torre A
+6 - Tira o disco 2 da Torre B para a Torre C
+7 - Tira o disco 1 da Torre A para a Torre C
+
